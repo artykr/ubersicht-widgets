@@ -2,7 +2,7 @@
 
 This is a widget for [Übersicht](http://tracesof.net/uebersicht) that displays a summary of a [Google Analytics](http://google.com/analytics) account: visits and goal reaches for the last week grouped by day. Mini charts are generated for each goal and the number of visits. Today's visits and goal reaches number are displayed in color: red for value lower than yesterday's, green otherwise, white if unchanged.
 
-![Google Analytics Übersicht widget](screenshot1.png)
+![Google Analytics Übersicht widget](screenshot.png)
 
 
 ## Setup
