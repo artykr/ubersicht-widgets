@@ -34,7 +34,7 @@ accountID = 'xxxxxxxx' # Analytics account ID
 propertyID = 'UA-xxxxxxxx-x' # Analytics web property ID
 ```
 
-Update these values in *analytics.rb* script. You would also like to update resource name in *ga.coffee* for convenience:
+Update these values in *analytics.rb* script. You might also like to update resource name in *ga.coffee* for convenience:
 
 ```
 render: (output) -> """

@@ -28,7 +28,7 @@ After completing these steps you should have following data at hand:
 * Auth token
 * Counter Id
 
-Update these values in *metrika.rb* script. You would also like to update resource name in *ym.coffee* for convenience:
+Update these values in *metrika.rb* script. You might also like to update resource name in *ym.coffee* for convenience:
 
 ```
 render: (output) -> """
